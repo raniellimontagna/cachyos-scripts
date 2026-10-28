@@ -1,5 +1,8 @@
 # CachyOS Scripts
 
+> [!WARNING]
+> **Discontinued.** These scripts are no longer maintained and the repository is archived (read-only).
+
 A collection of useful scripts for CachyOS and general Linux system management.
 
 ## 📁 Project Structure
